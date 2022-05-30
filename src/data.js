@@ -27,7 +27,7 @@ const actors = [
   },
   {
     name: "Anna Kendrick",
-    movies: ["Pitch Perfect", "Into The Wood"],
+    movies: ["Pitch Perfect", "Into The Woods"],
   },
   {
     name: "Tom Cruise",
@@ -42,7 +42,7 @@ const actors = [
 const directors = [
   {
     name: "Scott Derrickson",
-    movies: ["Doctor Strange", "Sinister", "The Exorcism of Emily Rose"],
+    movies: ["Doctor Strange", "Sinister", "The Exorcism of Emily Rose", "The Black Phone"],
   },
   {
     name: "Mike Mitchell",
@@ -50,7 +50,7 @@ const directors = [
   },
   {
     name: "Edward Zwick",
-    movies: ["Jack Reacher: Never Go Back", "Blood Diamon", "The Siege"],
+    movies: ["Jack Reacher: Never Go Back", "Blood Diamond", "The Siege"],
   },
 ];
 
